@@ -5,6 +5,8 @@ A beautiful and engaging math learning game built with React. Practice addition,
 
 ![Math Adventure Screenshot](src/public/screenshot.png)
 
+Demo: https://stately-piroshki-01d7b1.netlify.app
+
 ## Features
 
 - 🎯 Multiple operation modes (Addition, Subtraction, Multiplication, Division)
